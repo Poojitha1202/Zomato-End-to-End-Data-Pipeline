@@ -1,0 +1,14 @@
+# Python virtual environment
+dbt-env/
+
+# dbt generated files
+logs/
+zomato/target/
+zomato/dbt_packages/
+
+# Environment/secrets
+.env
+zomato/.env
+
+# Log files
+*.log

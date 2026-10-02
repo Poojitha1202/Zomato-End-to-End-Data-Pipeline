@@ -1,6 +1,6 @@
 version: 2
 models:
-  - name: fct_orders
+  - name: fact_orders
     columns:
       - name: order_id
         tests: [unique, not_null]

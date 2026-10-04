@@ -12,3 +12,6 @@ zomato/.env
 
 # Log files
 *.log
+
+# Generated RAG embedding cache
+review_embeddings.parquet

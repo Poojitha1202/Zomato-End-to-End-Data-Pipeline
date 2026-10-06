@@ -6,6 +6,10 @@ The project demonstrates a complete modern data workflow — from **raw CSV inge
 
 ---
 
+## Architecture
+
+![Zomato Data Pipeline Architecture](docs/zomato_pipeline_architecture.jpg)
+
 ### High-Level Data Flow
 
 ```text
